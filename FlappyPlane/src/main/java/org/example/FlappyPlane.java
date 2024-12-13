@@ -38,7 +38,7 @@ public class FlappyPlane extends JPanel implements ActionListener, KeyListener {
 
     int towerX = boardWidth;
     int towerY = 0;
-    int towerWidth = 120;
+    int towerWidth = 80;
     int towerHeight = 500;
 
     class Tower {
