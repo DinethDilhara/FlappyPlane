@@ -33,6 +33,11 @@ Follow the instructions below to set up and run FlappyPlane on your local machin
 ## 📋 Requirements
 - **Java Development Kit (JDK)**: Ensure you have JDK installed on your machine. You can download it from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or your preferred provider.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/ec1bb02d-435a-4eb1-a742-e16e3a9d468a
+
+
 ## 🤝 Contributing
 Feel free to fork this repository and make improvements or modifications. If you have suggestions or encounter issues, please open an issue or create a pull request.
 
